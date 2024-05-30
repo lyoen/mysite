@@ -5,8 +5,8 @@
 	"sites": [{
 		"name": "百度",
 		"href": "https://www.baidu.com",
-		"desc": "baidu",
-		"logo": "static/icons/52pojie.cn.ico"
+		"desc": "百度搜索",
+		"logo": "static/icons/baidu.png"
 	}, {
 		"name": "镜像网站导航",
 		"href": "http://www.dayanzai.me/",
