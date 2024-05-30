@@ -1,4 +1,34 @@
 [{
+	"_id": "Search",
+	"classify": "网页·搜索",
+	"icon": "ti-search",
+	"sites": [{
+		"name": "谷歌",
+		"href": "https://www.google.com",
+		"desc": "谷歌搜索",
+		"logo": "static/icons/google.png"
+	},{
+		"name": "百度",
+		"href": "https://www.baidu.com",
+		"desc": "百度搜索",
+		"logo": "static/icons/baidu.png"
+	},{
+		"name": "史莱姆",
+		"href": "http://www.slimego.cn",
+		"desc": "度盘搜索，更新较快，有学习资料专项",
+		"logo": "static/icons/slimego.cn.ico"
+	},{
+		"name": "TheFuture",
+		"href": "https://bks.thefuture.top/",
+		"desc": "书籍搜索，提供网盘下载",
+		"logo": "https://bks.thefuture.top/bk.png"
+	},{
+		"name": "虫部落网盘搜索",
+		"href": "http://magnet.chongbuluo.com/",
+		"desc": "专注搜索[技术]的虫部落开放的聚合网盘搜索",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+		}]
+}, {
 	"_id": "ruanjian",
 	"classify": "网页·搜索",
 	"icon": "ti-download",
