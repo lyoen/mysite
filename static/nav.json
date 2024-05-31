@@ -31,7 +31,7 @@
 		"name": "Pubmed",
 		"href": "https://pubmed.ncbi.nlm.nih.gov/",
 		"desc": "National Library of Medicine",
-		"logo": "static/icons/pubmed.jpg"
+		"logo": "static/icons/pubmed.png"
 		}]
 }, {
 	"_id": "ruanjian",
