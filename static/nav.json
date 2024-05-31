@@ -93,14 +93,14 @@
 		"desc": "ACL4SSR在线订阅转换",
 		"logo": "static/icons/baidu.jpg"
 	},{
-		"name": "百度翻译",
-		"href": "https://fanyi.baidu.com/",
-		"desc": "百度翻译，超级伙伴",
+		"name": "UUID",
+		"href": "https://www.uuidgenerator.net/",
+		"desc": "Online UUID Generator Tool",
 		"logo": "static/icons/googlescholar.jpg"
 	},{
-		"name": "维基百科",
-		"href": "https://en.wikipedia.org/wiki/Main_Page",
-		"desc": "维基百科，自由的百科全书",
+		"name": "ProtonVPN",
+		"href": "https://protonvpn.com/",
+		"desc": "The best VPN for speed and security",
 		"logo": "static/icons/wikipedia.png"		
 	},{
 		"name": "Qwant",
