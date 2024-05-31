@@ -118,88 +118,89 @@
 		"desc": "下载或定制适用于您设备的OpenWrt固件",
 		"logo": "static/icons/scihub.jpg"
 	},{
-		"name": "Library Genesis",
-		"href": "https://www.libgen.is/",
+		"name": "v2rayse",
+		"href": "https://v2rayse.com/",
+		"desc": "科学上网工具箱",
 		"logo": "static/icons/scihub.jpg"
 	},{
-		"name": "thepiratebay",
-		"href": "https://thepiratebay.org/index.html",
-		"desc": "海盗湾",
+		"name": "SMS-Activate",
+		"href": "https://sms-activate.org/cn",
+		"desc": "在线接收短信虚拟号码服务",
 		"logo": "static/icons/scihub.jpg"
 		}]	
 }, {
-	"_id": "ruanjian",
-	"classify": "网页·搜索",
+	"_id": "AI",
+	"classify": "AI人工智能",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "百度",
-		"href": "https://www.baidu.com",
-		"desc": "百度搜索",
+		"name": "OpenAI",
+		"href": "https://chat.openai.com/",
+		"desc": "ChatGPT",
 		"logo": "static/icons/baidu.png"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
+		"name": "Gemini",
+		"href": "https://gemini.google.com/app",
+		"desc": "Gemini",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
+		"name": "Google AI Studio",
+		"href": "https://aistudio.google.com/app/prompts/new_chat",
+		"desc": "Google AI Studio",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
+		"name": "HuggingFace",
+		"href": "https://huggingface.co/chat/",
+		"desc": "AI Community Building Future",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "殁漂遥",
-		"href": "https://www.mpyit.com/",
-		"desc": "分类齐全，不定时修改下载地址获取方式",
+		"name": "Poe",
+		"href": "https://poe.com/",
+		"desc": "Poe",
 		"logo": "static/icons/mpyit.com.ico"
 	}, {
-		"name": "胡萝卜周",
-		"href": "http://www.carrotchou.blog/",
-		"desc": "又一个软件分享'领跑者'",
+		"name": "Coze",
+		"href": "https://www.coze.com/",
+		"desc": "Coze",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "软件缘",
-		"href": "https://www.appcgn.com/",
-		"desc": "绿化、汉化软件",
+		"name": "DeepSeek",
+		"href": "https://chat.deepseek.com/",
+		"desc": "DeepSeek",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "看雪学院",
-		"href": "https://www.kanxue.com/",
-		"desc": "加密与解密，渗透与反渗透",
+		"name": "LMSYS Org",
+		"href": "https://lmsys.org/",
+		"desc": "LMSYS Org",
 		"logo": "static/icons/kanxue.com.ico"
 	}, {
-		"name": "少数派",
-		"href": "https://sspai.com/",
-		"desc": "生产力工具推荐平台（含会员付费阅读制）",
+		"name": "Claude",
+		"href": "https://claude.ai/",
+		"desc": "Claude",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
-		"desc": "转手之后变得很难看，但还能用",
+		"name": "Cohere",
+		"href": "https://coral.cohere.com/",
+		"desc": "Cohere",
 		"logo": "static/icons/zdfans.com.ico"
 	}, {
-		"name": "小众软件",
-		"href": "https://www.appinn.com/",
-		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
+		"name": "Groq",
+		"href": "https://groq.com/",
+		"desc": "Fastest AI Inference",
 		"logo": "static/icons/appinn.com.ico"
 	}, {
-		"name": "果核剥壳",
-		"href": "https://www.ghpym.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
+		"name": "ChandlerAI",
+		"href": "https://mychandler.bet/chat",
+		"desc": "ChandlerAI",
 		"logo": "static/icons/ghpym.com.ico"
 	}, {
-		"name": "异次元软件",
-		"href": "https://www.iplaysoft.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
+		"name": "PerplexityAI",
+		"href": "https://www.perplexity.ai/",
+		"desc": "PerplexityAI",
 		"logo": "static/icons/iplaysoft.com.ico"
 	}, {
-		"name": "photopea",
-		"href": "https://www.photopea.com/",
-		"desc": "在线ps，支持绝大多数功能。",
+		"name": "Coze-CN",
+		"href": "https://www.coze.cn/",
+		"desc": "国内的AI集合",
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
