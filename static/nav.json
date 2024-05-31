@@ -11,7 +11,7 @@
 		"name": "百度",
 		"href": "https://www.baidu.com",
 		"desc": "百度一下，你就知道",
-		"logo": "static/icons/baidu.png"
+		"logo": "static/icons/baidu.jpg"
 	},{
 		"name": "Qwant",
 		"href": "https://www.qwant.com/",
