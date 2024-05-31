@@ -32,6 +32,11 @@
 		"href": "https://pubmed.ncbi.nlm.nih.gov/",
 		"desc": "National Library of Medicine",
 		"logo": "static/icons/pubmed.png"
+	},{
+		"name": "Sci-hub",
+		"href": "https://sci-hub.mobi/",
+		"desc": "Sci-hub官网",
+		"logo": "static/icons/scihub.jpg"
 		}]
 }, {
 	"_id": "ruanjian",
