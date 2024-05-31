@@ -26,7 +26,7 @@
 		"name": "Google学术搜索",
 		"href": "https://scholar.google.com/",
 		"desc": "Google学术搜索",
-		"logo": "static/icons/google-scholar.png"
+		"logo": "static/icons/googlescholar.jpg"
 	},{
 		"name": "Pubmed",
 		"href": "https://pubmed.ncbi.nlm.nih.gov/",
