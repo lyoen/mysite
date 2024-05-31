@@ -1,6 +1,6 @@
 [{
 	"_id": "Search",
-	"classify": "网页·搜索",
+	"classify": "常用网页",
 	"icon": "ti-search",
 	"sites": [{
 		"name": "谷歌",
@@ -8,25 +8,40 @@
 		"desc": "谷歌搜索",
 		"logo": "static/icons/google.png"
 	},{
-		"name": "百度",
-		"href": "https://www.baidu.com",
-		"desc": "百度一下，你就知道",
-		"logo": "static/icons/baidu.jpg"
-	},{
-		"name": "Qwant",
-		"href": "https://www.qwant.com/",
-		"desc": "Qwant",
-		"logo": "static/icons/Qwant.jpg"
-	},{
-		"name": "维基百科",
-		"href": "https://en.wikipedia.org/wiki/Main_Page",
-		"desc": "维基百科，自由的百科全书",
-		"logo": "static/icons/wikipedia.png"
+		"name": "Google翻译",
+		"href": "https://translate.google.com/",
+		"desc": "Google翻译",
+		"logo": "static/icons/googlescholar.jpg"
 	},{
 		"name": "Google学术搜索",
 		"href": "https://scholar.google.com/",
 		"desc": "Google学术搜索",
 		"logo": "static/icons/googlescholar.jpg"
+	},{
+		"name": "Youtube",
+		"href": "https://www.youtube.com/",
+		"desc": "Youtube",
+		"logo": "static/icons/googlescholar.jpg"
+	},{
+		"name": "百度",
+		"href": "https://www.baidu.com",
+		"desc": "百度一下，你就知道",
+		"logo": "static/icons/baidu.jpg"
+	},{
+		"name": "百度翻译",
+		"href": "https://fanyi.baidu.com/",
+		"desc": "百度翻译，超级伙伴",
+		"logo": "static/icons/googlescholar.jpg"
+	},{
+		"name": "维基百科",
+		"href": "https://en.wikipedia.org/wiki/Main_Page",
+		"desc": "维基百科，自由的百科全书",
+		"logo": "static/icons/wikipedia.png"		
+	},{
+		"name": "Qwant",
+		"href": "https://www.qwant.com/",
+		"desc": "Qwant",
+		"logo": "static/icons/Qwant.jpg"	
 	},{
 		"name": "Pubmed",
 		"href": "https://pubmed.ncbi.nlm.nih.gov/",
@@ -36,6 +51,15 @@
 		"name": "Sci-hub",
 		"href": "https://sci-hub.mobi/",
 		"desc": "Sci-hub官网",
+		"logo": "static/icons/scihub.jpg"
+	},{
+		"name": "Library Genesis",
+		"href": "https://www.libgen.is/",
+		"logo": "static/icons/scihub.jpg"
+	},{
+		"name": "thepiratebay",
+		"href": "https://thepiratebay.org/index.html",
+		"desc": "海盗湾",
 		"logo": "static/icons/scihub.jpg"
 		}]
 }, {
