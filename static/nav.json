@@ -13,20 +13,20 @@
 		"desc": "百度搜索",
 		"logo": "static/icons/baidu.png"
 	},{
-		"name": "史莱姆",
-		"href": "http://www.slimego.cn",
-		"desc": "度盘搜索，更新较快，有学习资料专项",
-		"logo": "static/icons/slimego.cn.ico"
+		"name": "Qwant",
+		"href": "https://www.qwant.com/",
+		"desc": "Qwant",
+		"logo": "static/icons/qwant.png"
 	},{
-		"name": "TheFuture",
-		"href": "https://bks.thefuture.top/",
-		"desc": "书籍搜索，提供网盘下载",
-		"logo": "https://bks.thefuture.top/bk.png"
+		"name": "维基百科",
+		"href": "https://en.wikipedia.org/wiki/Main_Page",
+		"desc": "维基百科，自由的百科全书",
+		"logo": "static/icons/wikipedia.png"
 	},{
-		"name": "虫部落网盘搜索",
-		"href": "http://magnet.chongbuluo.com/",
-		"desc": "专注搜索[技术]的虫部落开放的聚合网盘搜索",
-		"logo": "https://search.chongbuluo.com/favicon.ico"
+		"name": "Google学术搜索",
+		"href": "https://scholar.google.com/",
+		"desc": "Google学术搜索",
+		"logo": "static/icons/google-scholar.png"
 		}]
 }, {
 	"_id": "ruanjian",
