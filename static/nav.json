@@ -130,7 +130,7 @@
 		}]	
 }, {
 	"_id": "AI",
-	"classify": "AI人工智能",
+	"classify": "人工智能",
 	"icon": "ti-download",
 	"sites": [{
 		"name": "OpenAI",
@@ -279,7 +279,7 @@
 		"logo": "static/icons/photopea.com.png"		
 	}]
 }, {
-	"_id": "监管和临床研究",
+	"_id": "注册临床",
 	"classify": "Regulator&Clinic",
 	"icon": "ti-download",
 	"sites": [{
