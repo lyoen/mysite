@@ -279,8 +279,8 @@
 		"logo": "static/icons/photopea.com.png"		
 	}]
 }, {
-	"_id": "注册临床",
-	"classify": "Regulator&Clinic",
+	"_id": "clinical&registry",
+	"classify": "注册临床",
 	"icon": "ti-download",
 	"sites": [{
 		"name": "NMPA",
