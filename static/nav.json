@@ -288,7 +288,7 @@
 		"desc": "国家食品药品监督管理局",
 		"logo": "static/icons/baidu.png"
 	}, {
-		"name": "CDE",
+		"name": "NMPA CDE",
 		"href": "https://www.cde.org.cn/",
 		"desc": "药审中心",
 		"logo": "static/icons/dayanzai.me.ico"
@@ -351,7 +351,62 @@
 		"name": "DIA",
 		"href": "https://www.diaglobal.org/",
 		"desc": "Drug Information Association",
-		"logo": "static/icons/photopea.com.png"		
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "AntibodySociety",
+		"href": "https://www.antibodysociety.org/",
+		"desc": "An international non-profit supporting antibody-related research and development",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "ASH",
+		"href": "https://ashpublications.org/",
+		"desc": "American Society of Hematology",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "DDI Table",
+		"href": "https://drug-interactions.medicine.iu.edu/MainTable.aspx",
+		"desc": "CYP底物、抑制剂、诱导剂",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "Chinadrugtrials",
+		"href": "http://www.chinadrugtrials.org.cn/index.html",
+		"desc": "中国临床试验登记与信息公示平台",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "WHOdrugtrials",
+		"href": "https://trialsearch.who.int/",
+		"desc": "International Clinical Trials Registry Platform",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "Clinicaltrials",
+		"href": "https://www.clinicaltrials.gov/",
+		"desc": "NIH Clinical Trials",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "Clinicaltrials-Classic",
+		"href": "https://classic.clinicaltrials.gov/",
+		"desc": "Classic Clinical Trials",
+		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "EU Clinicaltrials",
+		"href": "https://www.clinicaltrialsregister.eu/ctr-search/search",
+		"desc": "EU Clinical Trials",
+		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "Clinical Trial Competency",
+		"href": "https://mrctcenter.org/clinical-trial-competency/",
+		"desc": "Joint Task Force For Clinical Trial Competency",
+		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "Anzctr",
+		"href": "https://anzctr.org.au/Default.aspx",
+		"desc": "Australia New Zealand clinical trials registry",
+		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "synapse",
+		"href": "https://synapse.patsnap.com/",
+		"desc": "Global Drug Intelligence",
+		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
 	"_id": "yunpan",
