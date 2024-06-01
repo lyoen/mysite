@@ -202,6 +202,156 @@
 		"href": "https://www.coze.cn/",
 		"desc": "国内的AI集合",
 		"logo": "static/icons/photopea.com.png"
+	}]	
+}, {
+	"_id": "GitHub",
+	"classify": "GitHub",
+	"icon": "ti-download",
+	"sites": [{
+		"name": "GitHub",
+		"href": "https://github.com/",
+		"desc": "GitHub",
+		"logo": "static/icons/baidu.png"
+	}, {
+		"name": "OpenAi-Translator",
+		"href": "https://github.com/openai-translator",
+		"desc": "translalor",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "BingGPT",
+		"href": "https://github.com/dice2o/BingGPT",
+		"desc": "BingGPT",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "V2rayN",
+		"href": "https://github.com/2dust/v2rayN/releases",
+		"desc": "V2rayN",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "Edgetunnel",
+		"href": "https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js",
+		"desc": "zizifn",
+		"logo": "static/icons/mpyit.com.ico"
+	}, {
+		"name": "IPTV",
+		"href": "https://github.com/iptv-org/iptv",
+		"desc": "iptv数据源",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "IPTV-fanmingming",
+		"href": "https://github.com/fanmingming/live",
+		"desc": "一个可直连访问的电视/广播图标库与相关工具项目",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "Misaka-blog",
+		"href": "https://github.com/Misaka-blog",
+		"desc": "MisakaNo の 小破站",
+		"logo": "static/icons/kanxue.com.ico"
+	}, {
+		"name": "Claude",
+		"href": "https://claude.ai/",
+		"desc": "Claude",
+		"logo": "static/icons/sspai.com.ico"
+	}, {
+		"name": "EDtunnel",
+		"href": "https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js",
+		"desc": "3Kmfi6HP",
+		"logo": "static/icons/zdfans.com.ico"
+	}, {
+		"name": "my-tv",
+		"href": "https://github.com/lizongying/my-tv",
+		"desc": "我的电视 电视直播软件，安装即可使用",
+		"logo": "static/icons/appinn.com.ico"
+	}, {
+		"name": "V2ray-sub",
+		"href": "https://github.com/barry-far/V2ray-Configs/tree/main",
+		"desc": "V2ray免费订阅",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "V2ray-sub",
+		"href": "https://github.com/Pawdroid/Free-servers",
+		"desc": "V2ray Free-servers",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "windows-defender-remover",
+		"href": "https://github.com/ionuttbara/windows-defender-remover",
+		"desc": "关闭windows安全中心",
+		"logo": "static/icons/photopea.com.png"		
+	}]
+}, {
+	"_id": "监管和临床研究",
+	"classify": "Regulator&Clinic",
+	"icon": "ti-download",
+	"sites": [{
+		"name": "NMPA",
+		"href": "https://www.nmpa.gov.cn/",
+		"desc": "国家食品药品监督管理局",
+		"logo": "static/icons/baidu.png"
+	}, {
+		"name": "CDE",
+		"href": "https://www.cde.org.cn/",
+		"desc": "药审中心",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "FDA",
+		"href": "https://www.fda.gov/",
+		"desc": "US Food and Drug Administration",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "FDA CDER",
+		"href": "https://www.fda.gov/about-fda/fda-organization/center-drug-evaluation-and-research-cder",
+		"desc": "FDA CDER",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "Generic Drug Guidance",
+		"href": "https://www.fda.gov/drugs/guidances-drugs/product-specific-guidances-generic-drug-development",
+		"desc": "仿制药指导原则",
+		"logo": "static/icons/mpyit.com.ico"
+	}, {
+		"name": "Orange Book",
+		"href": "https://www.accessdata.fda.gov/scripts/cder/ob/",
+		"desc": "Approved Drug Products with Therapeutic Equivalence Evaluations",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "jp-orangebook",
+		"href": "http://www.jp-orangebook.gr.jp/english/",
+		"desc": "Japanese orangebook",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "WHO",
+		"href": "https://extranet.who.int/prequal/?search_api_views_fulltext=&op=search",
+		"desc": "WHO",
+		"logo": "static/icons/kanxue.com.ico"
+	}, {
+		"name": "Drugs@FDA",
+		"href": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm",
+		"desc": "FDA-Approved Drugs",
+		"logo": "static/icons/sspai.com.ico"
+	}, {
+		"name": "EMA",
+		"href": "https://www.ema.europa.eu/en/homepage",
+		"desc": "EMA",
+		"logo": "static/icons/zdfans.com.ico"
+	}, {
+		"name": "ICH",
+		"href": "https://www.ich.org/",
+		"desc": "ICH",
+		"logo": "static/icons/appinn.com.ico"
+	}, {
+		"name": "Clinicaldata",
+		"href": "https://clinicaldata.ema.europa.eu/web/cdp",
+		"desc": "EMA审评材料",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "NIH Vedio",
+		"href": "https://videocast.nih.gov/",
+		"desc": "NIH Vedio",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "DIA",
+		"href": "https://www.diaglobal.org/",
+		"desc": "Drug Information Association",
+		"logo": "static/icons/photopea.com.png"		
 	}]
 }, {
 	"_id": "yunpan",
