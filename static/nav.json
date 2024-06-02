@@ -509,33 +509,33 @@
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
-	"_id": "yunpan",
-	"classify": "云盘储存",
+	"_id": "Email",
+	"classify": "邮箱云盘",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "文叔叔",
-		"href": "https://www.wenshushu.cn/",
-		"desc": "大文件即时传输，新晋优秀网盘",
+		"name": "QQ企业邮箱",
+		"href": "https://exmail.qq.com/",
+		"desc": "腾讯企业邮箱",
 		"logo": "static/icons/wenshushu.cn.ico"
 	},  {
-		"name": "微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "腾讯QQ网盘服务",
+		"name": "163邮箱",
+		"href": "https://mail.163.com/",
+		"desc": "163网易免费邮箱",
 		"logo": "static/icons/weiyun.com.ico"
 	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
+		"name": "武大邮箱",
+		"href": "https://email.whu.edu.cn/",
+		"desc": "武汉大学电子邮箱系统",
 		"logo": "static/icons/jianguoyun.com.ico"
 	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
+		"name": "Proton Mail",
+		"href": "https://mail.proton.me/u/0/inbox",
+		"desc": "Proton邮箱",
 		"logo": "static/icons/cowtransfer.com.png"
 	}, {
-		"name": "OneDrive",
-		"href": "http://onedrive.com/",
-		"desc": "微软云存储，支持在线Offiec编辑",
+		"name": "Smail Pro",
+		"href": "https://smailpro.com/",
+		"desc": "临时邮箱",
 		"logo": "static/icons/onedrive.live.com.ico"
 	}, {
 		"name": "DropBox",
@@ -548,14 +548,14 @@
 		"desc": "Google在线云存储服务",
 		"logo": "static/icons/drive.google.com.png"
 	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/",
+		"desc": "百度在线存储和云服务",
 		"logo": "static/icons/icloud.com.png"
 	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
+		"name": "TeraBox",
+		"href": "https://www.terabox.com/",
+		"desc": "百度网盘海外版",
 		"logo": "static/icons/firefox.com.svg"
 	},{
 		"name": "天翼云盘",
@@ -563,15 +563,90 @@
 		"desc": "电信出品的优秀网盘",
 		"logo": "static/icons/189.cn.ico"
 	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
+		"name": "Alipan",
+		"href": "https://www.alipan.com/",
+		"desc": "阿里云盘分享",
 		"logo": "static/icons/quqi.com.ico"
 	},{
 		"name": "城通网盘",
 		"href": "https://www.ctfile.com/",
 		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
 		"logo": "static/icons/ctfile.com.png"
+	}]
+}, {
+	"_id": "Vedio",
+	"classify": "视频解析",
+	"icon": "ti-download",
+	"sites": [{
+		"name": "OpenAI",
+		"href": "https://chat.openai.com/",
+		"desc": "ChatGPT",
+		"logo": "static/icons/baidu.png"
+	}, {
+		"name": "Gemini",
+		"href": "https://gemini.google.com/app",
+		"desc": "Gemini",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "Google AI Studio",
+		"href": "https://aistudio.google.com/app/prompts/new_chat",
+		"desc": "Google AI Studio",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "HuggingFace",
+		"href": "https://huggingface.co/chat/",
+		"desc": "AI Community Building Future",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "Poe",
+		"href": "https://poe.com/",
+		"desc": "Poe",
+		"logo": "static/icons/mpyit.com.ico"
+	}, {
+		"name": "Coze",
+		"href": "https://www.coze.com/",
+		"desc": "Coze",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "DeepSeek",
+		"href": "https://chat.deepseek.com/",
+		"desc": "DeepSeek",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "LMSYS Org",
+		"href": "https://lmsys.org/",
+		"desc": "LMSYS Org",
+		"logo": "static/icons/kanxue.com.ico"
+	}, {
+		"name": "Claude",
+		"href": "https://claude.ai/",
+		"desc": "Claude",
+		"logo": "static/icons/sspai.com.ico"
+	}, {
+		"name": "Cohere",
+		"href": "https://coral.cohere.com/",
+		"desc": "Cohere",
+		"logo": "static/icons/zdfans.com.ico"
+	}, {
+		"name": "Groq",
+		"href": "https://groq.com/",
+		"desc": "Fastest AI Inference",
+		"logo": "static/icons/appinn.com.ico"
+	}, {
+		"name": "ChandlerAI",
+		"href": "https://mychandler.bet/chat",
+		"desc": "ChandlerAI",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "PerplexityAI",
+		"href": "https://www.perplexity.ai/",
+		"desc": "PerplexityAI",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "Coze-CN",
+		"href": "https://www.coze.cn/",
+		"desc": "国内的AI集合",
+		"logo": "static/icons/photopea.com.png"
 	}]
 },  { 
 	"_id": "daohang",
