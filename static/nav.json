@@ -578,75 +578,70 @@
 	"classify": "视频解析",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "OpenAI",
-		"href": "https://chat.openai.com/",
-		"desc": "ChatGPT",
-		"logo": "static/icons/baidu.png"
+		"name": "Youtube",
+		"href": "https://www.youtube.com/",
+		"desc": "Youtube",
+		"logo": "static/icons/googlescholar.jpg"
 	}, {
-		"name": "Gemini",
-		"href": "https://gemini.google.com/app",
-		"desc": "Gemini",
+		"name": "Youku",
+		"href": "https://www.youku.com/",
+		"desc": "优酷视频",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "Google AI Studio",
-		"href": "https://aistudio.google.com/app/prompts/new_chat",
-		"desc": "Google AI Studio",
+		"name": "iqiyi",
+		"href": "https://www.iqiyi.com/",
+		"desc": "爱奇艺",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "HuggingFace",
-		"href": "https://huggingface.co/chat/",
-		"desc": "AI Community Building Future",
+		"name": "Bilibili",
+		"href": "https://www.bilibili.com/",
+		"desc": "哔哩哔哩",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "Poe",
-		"href": "https://poe.com/",
-		"desc": "Poe",
+		"name": "QQ Vedio",
+		"href": "https://v.qq.com/",
+		"desc": "腾讯视频",
 		"logo": "static/icons/mpyit.com.ico"
 	}, {
-		"name": "Coze",
-		"href": "https://www.coze.com/",
-		"desc": "Coze",
+		"name": "MangoTV",
+		"href": "https://www.mgtv.com/",
+		"desc": "芒果电视",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "DeepSeek",
-		"href": "https://chat.deepseek.com/",
-		"desc": "DeepSeek",
+		"name": "Dy2018",
+		"href": "https://www.dy2018.com/",
+		"desc": "电影天堂",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "LMSYS Org",
-		"href": "https://lmsys.org/",
-		"desc": "LMSYS Org",
+		"name": "不求人导航",
+		"href": "https://video.bqrdh.com/",
+		"desc": "不求人导航",
 		"logo": "static/icons/kanxue.com.ico"
 	}, {
-		"name": "Claude",
-		"href": "https://claude.ai/",
-		"desc": "Claude",
+		"name": "人人影视",
+		"href": "https://yyets.click/home",
+		"desc": "人人影视",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
-		"name": "Cohere",
-		"href": "https://coral.cohere.com/",
-		"desc": "Cohere",
+		"name": "高清电台",
+		"href": "https://gaoqing.fm/",
+		"desc": "最全高清电影下载",
 		"logo": "static/icons/zdfans.com.ico"
 	}, {
-		"name": "Groq",
-		"href": "https://groq.com/",
-		"desc": "Fastest AI Inference",
+		"name": "兰花影院",
+		"href": "https://www.lanhuatv.com/",
+		"desc": "海量高清视频免费在线观看",
 		"logo": "static/icons/appinn.com.ico"
 	}, {
-		"name": "ChandlerAI",
-		"href": "https://mychandler.bet/chat",
-		"desc": "ChandlerAI",
+		"name": "TiQu",
+		"href": "https://tiqu.cc/",
+		"desc": "从所有网络下载视频/提取图像",
 		"logo": "static/icons/ghpym.com.ico"
 	}, {
-		"name": "PerplexityAI",
-		"href": "https://www.perplexity.ai/",
-		"desc": "PerplexityAI",
+		"name": "Khan",
+		"href": "https://www.khanacademy.org/",
+		"desc": "可汗学院",
 		"logo": "static/icons/iplaysoft.com.ico"
-	}, {
-		"name": "Coze-CN",
-		"href": "https://www.coze.cn/",
-		"desc": "国内的AI集合",
-		"logo": "static/icons/photopea.com.png"
 	}]
 },  { 
 	"_id": "daohang",
