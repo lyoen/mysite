@@ -279,7 +279,7 @@
 		"logo": "static/icons/photopea.com.png"		
 	}]
 }, {
-	"_id": "clinical&registry",
+	"_id": "cliRe",
 	"classify": "注册临床",
 	"icon": "ti-download",
 	"sites": [{
