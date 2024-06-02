@@ -642,6 +642,26 @@
 		"href": "https://www.khanacademy.org/",
 		"desc": "可汗学院",
 		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "swkj22",
+		"href": "https://dy.swkj22.cn/",
+		"desc": "抖音快手全网短视频解析、去水印",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "ctrlqq",
+		"href": "https://v.ctrlqq.com/",
+		"desc": "VIP视频在线解析",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "daga",
+		"href": "https://www.daga.cc/",
+		"desc": "全民影视vip解析",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "Liumingye",
+		"href": "https://tools.liumingye.cn/",
+		"desc": "刘明野的工具箱",
+		"logo": "static/icons/iplaysoft.com.ico"
 	}]
 },  { 
 	"_id": "daohang",
