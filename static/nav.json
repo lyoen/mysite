@@ -409,6 +409,106 @@
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
+	"_id": "Literature",
+	"classify": "文献论坛",
+	"icon": "ti-download",
+	"sites": [{
+		"name": "Pubmed",
+		"href": "https://pubmed.ncbi.nlm.nih.gov/",
+		"desc": "National Library of Medicine",
+		"logo": "static/icons/pubmed.png"
+	},{
+		"name": "Sci-hub",
+		"href": "https://sci-hub.mobi/",
+		"desc": "Sci-hub官网",
+		"logo": "static/icons/scihub.jpg"
+	},{
+		"name": "CNKI",
+		"href": "https://www.cnki.net/",
+		"desc": "中国知网",
+		"logo": "static/icons/scihub.jpg"
+	}, {
+		"name": "Qboshi",
+		"href": "http://lib.qboshi.net/",
+		"desc": "Q博士图书馆",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "link2lib",
+		"href": "https://www.link2lib.com/main",
+		"desc": "开心图书馆",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "V2rayN",
+		"href": "https://github.com/2dust/v2rayN/releases",
+		"desc": "V2rayN",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
+		"name": "drugrd",
+		"href": "https://drugrd.cn/",
+		"desc": "药研导航网",
+		"logo": "static/icons/mpyit.com.ico"
+	}, {
+		"name": "Yovisun",
+		"href": "https://tool.yovisun.com/",
+		"desc": "YoviSun工具集",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "Researcher Home",
+		"href": "https://www.home-for-researchers.com/#/",
+		"desc": "科研者之家",
+		"logo": "static/icons/appcgn.com.ico"
+	}, {
+		"name": "Pubscholar",
+		"href": "https://pubscholar.cn/",
+		"desc": "Pubscholar公益学术平台",
+		"logo": "static/icons/kanxue.com.ico"
+	}, {
+		"name": "Puppy-Med",
+		"href": "https://www.puppy-med.com/",
+		"desc": "小狗文献",
+		"logo": "static/icons/sspai.com.ico"
+	}, {
+		"name": "Muchong",
+		"href": "http://muchong.com/bbs/",
+		"desc": "小木虫论坛",
+		"logo": "static/icons/zdfans.com.ico"
+	}, {
+		"name": "dxy",
+		"href": "https://www.dxy.cn/bbs/newweb/pc/home",
+		"desc": "丁香园论坛",
+		"logo": "static/icons/appinn.com.ico"
+	}, {
+		"name": "expaper",
+		"href": "http://www.expaper.cn/",
+		"desc": "科研速递论坛",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "药圈",
+		"href": "http://www.yaoq.net/",
+		"desc": "药学人的圈子",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
+		"name": "药智网",
+		"href": "https://www.yaozh.com/",
+		"desc": "药学数据服务和平台",
+		"logo": "static/icons/photopea.com.png"	
+	}, {
+		"name": "卡饭网",
+		"href": "https://www.kafan.cn/",
+		"desc": "科技新闻，计算机安全",
+		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "52pojie",
+		"href": "https://www.52pojie.cn/forum.php",
+		"desc": "吾爱破解论坛",
+		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "鸭绿江论坛",
+		"href": "http://www.yayabuluo.com/forum.php",
+		"desc": "鸭绿江论坛",
+		"logo": "static/icons/photopea.com.png"
+	}]
+}, {
 	"_id": "yunpan",
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
