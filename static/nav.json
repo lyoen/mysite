@@ -714,69 +714,95 @@
 		"logo": "no-logo"
 	}]
 }, {
-	"_id": "wangpan",
-	"classify": "资源搜索",
+	"_id": "Software",
+	"classify": "软件下载",
 	"icon": "ti-search",
 	"sites": [{
-		"name": "LOOKAO",
-		"href": "https://lookao.com/",
-		"desc": "简单的 不追踪不记录搜索引擎",
+		"name": "Loveplay",
+		"href": "https://www.loveplay123.com/",
+		"desc": "App破解软件下载",
 		"logo": "https://www.dashengpan.com/favicon.ico"
 	},{
-		"name": "大力盘",
-		"href": "https://www.dalipan.com/",
-		"desc": "度盘搜索，支持精准匹配或模糊匹配，有筛选功能",
+		"name": "蓝鲨",
+		"href": "https://www.lan-sha.com/",
+		"desc": "蓝鲨-各类软件下载",
 		"logo": "https://www.dalipan.com/favicon.ico"
 	},{
-		"name": "史莱姆",
-		"href": "http://www.slimego.cn",
-		"desc": "度盘搜索，更新较快，有学习资料专项",
-		"logo": "static/icons/slimego.cn.ico"
+		"name": "listen1",
+		"href": "https://listen1.github.io/listen1/",
+		"desc": "Listen1音乐软件",
+		"logo": "static/icons/slimego.cn.ico"		
 	},{
-		"name": "TheFuture",
-		"href": "https://bks.thefuture.top/",
-		"desc": "书籍搜索，提供网盘下载",
-		"logo": "https://bks.thefuture.top/bk.png"
+		"name": "9jgat",
+		"href": "https://9jgat.top/",
+		"desc": "专业软件合集",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
 	},{
-		"name": "虫部落网盘搜索",
-		"href": "http://magnet.chongbuluo.com/",
-		"desc": "专注搜索[技术]的虫部落开放的聚合网盘搜索",
+		"name": "Nirsoft",
+		"href": "https://www.nirsoft.net/",
+		"desc": "密码恢复，系统时间修改",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	
+	},{
+		"name": "蜻蜓工具",
+		"href": "https://33tool.com/",
+		"desc": "免费在线工具站",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	},{
+		"name": "Music software",
+		"href": "https://mn.cyou/archives/allmusic",
+		"desc": "全网最强音乐软件合辑",
 		"logo": "https://search.chongbuluo.com/favicon.ico"
 	}]
 }, {
-	"_id": "quwei",
-	"classify": "趣味网站",
+	"_id": "Resource",
+	"classify": "优秀资源",
 	"icon": "ti-package",
 	"sites": [{
-		"name": "能不能好好说话",
-		"href": "https://lab.magiconch.com/nbnhhsh/",
-		"desc": "分分钟混入00后圈子，rnb（really 牛B）",
-		"logo": "static/icons/magiconch.com.ico"
-	}, {
-		"name": "煎蛋",
-		"href": "http://jandan.net/",
-		"desc": "世界上没有新鲜事，除了表情包",
-		"logo": "static/icons/jandan.net.ico"
+		"name": "Thepiratebay",
+		"href": "https://thepiratebay.org/index.html",
+		"desc": "海盗湾",
+		"logo": "https://bks.thefuture.top/bk.png"
 	},{
-		"name": "soogif搜索",
-		"href": "http://soogif.com/",
-		"desc": "Gif动图中文搜索平台",
-		"logo": "static/icons/soogif.com.ico"
+		"name": "aconf",
+		"href": "https://www.aconf.cn/docs/",
+		"desc": "艾会网-全国会议查询",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	},{
+		"name": "Annas-archive",
+		"href": "https://annas-archive.org/",
+		"desc": "安娜的档案-书籍文献",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	},{
+		"name": "Libgen",
+		"href": "https://www.libgen.is/",
+		"desc": "Library Genesis",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
 	}, {
-		"name": "小鸡词典",
-		"href": "https://jikipedia.com/",
-		"desc": "全球在线动态GIF图片搜索引擎",
-		"logo": "static/icons/jikipedia.com.png"
+		"name": "brians",
+		"href": "https://brians.wsu.edu/",
+		"desc": "Common Errors in English Usage",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
 	}, {
-		"name": "肌肉百科",
-		"href": "https://musclewiki.org/",
-		"desc": "选中哪块肌肉就展示对应锻炼方法",
-		"logo": "static/icons/musclewiki.org.ico"
-	}, {
-		"name": "imgur",
-		"href": "http://imgur.com/",
-		"desc": "全球免费的图片分享和图床网站",
-		"logo": "static/icons/imgur.com.png"
+		"name": "BT站",
+		"href": "https://kydsj.vip/doku.php?id=wiki:bt%E7%AB%99",
+		"desc": "开源大世界-BT站",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	},{
+		"name": "iconify",
+		"href": "https://icon-sets.iconify.design/",
+		"desc": "开源图标下载",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	},{
+		"name": "sojson",
+		"href": "https://www.sojson.com/image/change.html",
+		"desc": "在线图片尺寸修改",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
+	},{
+		"name": "shijuan1",
+		"href": "https://www.shijuan1.com/",
+		"desc": "第一试卷网",
+		"logo": "https://search.chongbuluo.com/favicon.ico"
 	}]
 },{
 	"_id": "wangluo",
