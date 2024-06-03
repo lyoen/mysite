@@ -71,12 +71,12 @@
 		"name": "Cloudflare",
 		"href": "https://www.cloudflare.com/",
 		"desc": "随时随地连接、保护和构建",
-		"logo": "static/icons/google.png"
+		"logo": "static/icons/Cloudflare.jpg"
 	},{
-		"name": "Cloudflare优选IP",
+		"name": "CloudflareYes",
 		"href": "https://stock.hostmonit.com/CloudFlareYes",
-		"desc": "全球主机监控",
-		"logo": "static/icons/googlescholar.jpg"
+		"desc": "Cloudflare优选IP",
+		"logo": "static/icons/CloudflareYes.png"
 	},{
 		"name": "CloudNS",
 		"href": "https://www.cloudns.net/",
