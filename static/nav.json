@@ -131,7 +131,7 @@
 }, {
 	"_id": "AI",
 	"classify": "人工智能",
-	"icon": "ti-download",
+	"icon": "ti-infinite",
 	"sites": [{
 		"name": "OpenAI",
 		"href": "https://chat.openai.com/",
