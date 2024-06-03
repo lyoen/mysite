@@ -161,7 +161,7 @@
 		"name": "Coze",
 		"href": "https://www.coze.com/",
 		"desc": "Coze",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "static/icons/Coze.png"
 	}, {
 		"name": "DeepSeek",
 		"href": "https://chat.deepseek.com/",
@@ -201,7 +201,7 @@
 		"name": "Coze-CN",
 		"href": "https://www.coze.cn/",
 		"desc": "国内的AI集合",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "static/icons/Coze-CN.jpg"
 	}]	
 }, {
 	"_id": "GitHub",
