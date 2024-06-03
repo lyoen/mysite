@@ -96,7 +96,7 @@
 		"name": "UUID",
 		"href": "https://www.uuidgenerator.net/",
 		"desc": "Online UUID Generator Tool",
-		"logo": "static/icons/googlescholar.jpg"
+		"logo": "static/icons/uuidgenerator.png"
 	},{
 		"name": "ProtonVPN",
 		"href": "https://protonvpn.com/",
