@@ -116,7 +116,7 @@
 		"name": "OpenWRT",
 		"href": "https://openwrt.ai/",
 		"desc": "下载或定制适用于您设备的OpenWrt固件",
-		"logo": "static/icons/scihub.jpg"
+		"logo": "static/icons/OpenWRT.jpg"
 	},{
 		"name": "v2rayse",
 		"href": "https://v2rayse.com/",
