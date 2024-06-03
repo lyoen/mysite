@@ -56,12 +56,12 @@
 		"name": "Library Genesis",
 		"href": "https://www.libgen.is/",
 		"desc": "全球最大的书籍下载网站",
-		"logo": "static/icons/scihub.jpg"
+		"logo": "static/icons/Library Genesis.jpg"
 	},{
 		"name": "thepiratebay",
 		"href": "https://thepiratebay.org/index.html",
 		"desc": "海盗湾",
-		"logo": "static/icons/scihub.jpg"
+		"logo": "static/icons/thepiratebay.jpg"
 		}]
 }, {
 	"_id": "Freegate",
