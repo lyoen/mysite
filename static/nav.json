@@ -106,7 +106,7 @@
 		"name": "CodeSandBox",
 		"href": "https://codesandbox.io/",
 		"desc": "Free workspace",
-		"logo": "static/icons/Qwant.jpg"	
+		"logo": "static/icons/codesandbox.png"	
 	},{
 		"name": "V2ray Edge",
 		"href": "https://edgetunnel.github.io/edgetunnel/",
