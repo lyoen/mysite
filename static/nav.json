@@ -1,7 +1,7 @@
 [{
 	"_id": "conventional",
 	"classify": "常用网页",
-	"icon": "ti-search",
+	"icon": "ti-user",
 	"sites": [{
 		"name": "谷歌",
 		"href": "https://www.google.com",
