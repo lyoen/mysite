@@ -66,7 +66,7 @@
 }, {
 	"_id": "Freegate",
 	"classify": "科学上网",
-	"icon": "ti-search",
+	"icon": "ti-rocket",
 	"sites": [{
 		"name": "Cloudflare",
 		"href": "https://www.cloudflare.com/",
