@@ -126,7 +126,7 @@
 		"name": "SMS-Activate",
 		"href": "https://sms-activate.org/cn",
 		"desc": "在线接收短信虚拟号码服务",
-		"logo": "static/icons/scihub.jpg"
+		"logo": "static/icons/sms-activate.jpg"
 		}]	
 }, {
 	"_id": "AI",
