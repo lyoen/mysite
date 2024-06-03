@@ -111,7 +111,7 @@
 		"name": "V2ray Edge",
 		"href": "https://edgetunnel.github.io/edgetunnel/",
 		"desc": "快速部署到Cloudflare Worker，无需任何服务器就可以运行 v2ray 服务",
-		"logo": "static/icons/pubmed.png"
+		"logo": "static/icons/V2ray Edge.jpg"
 	},{
 		"name": "OpenWRT",
 		"href": "https://openwrt.ai/",
