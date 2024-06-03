@@ -16,7 +16,7 @@
 		"name": "Google学术搜索",
 		"href": "https://scholar.google.com/",
 		"desc": "Google学术搜索",
-		"logo": "static/icons/googlescholar.jpg"
+		"logo": "static/icons/googlescholar.png"
 	},{
 		"name": "Youtube",
 		"href": "https://www.youtube.com/",
