@@ -136,7 +136,7 @@
 		"name": "OpenAI",
 		"href": "https://chat.openai.com/",
 		"desc": "ChatGPT",
-		"logo": "static/icons/baidu.png"
+		"logo": "static/icons/openai.png"
 	}, {
 		"name": "Gemini",
 		"href": "https://gemini.google.com/app",
