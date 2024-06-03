@@ -146,7 +146,7 @@
 		"name": "Google AI Studio",
 		"href": "https://aistudio.google.com/app/prompts/new_chat",
 		"desc": "Google AI Studio",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/Google AI Studio.png"
 	}, {
 		"name": "HuggingFace",
 		"href": "https://huggingface.co/chat/",
