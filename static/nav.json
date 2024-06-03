@@ -101,7 +101,7 @@
 		"name": "ProtonVPN",
 		"href": "https://protonvpn.com/",
 		"desc": "The best VPN for speed and security",
-		"logo": "static/icons/wikipedia.png"		
+		"logo": "static/icons/protonvpn.jpg"		
 	},{
 		"name": "CodeSandBox",
 		"href": "https://codesandbox.io/",
