@@ -141,7 +141,7 @@
 		"name": "Gemini",
 		"href": "https://gemini.google.com/app",
 		"desc": "Gemini",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/gemini.png"
 	}, {
 		"name": "Google AI Studio",
 		"href": "https://aistudio.google.com/app/prompts/new_chat",
