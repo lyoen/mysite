@@ -66,7 +66,7 @@
 }, {
 	"_id": "Freegate",
 	"classify": "科学上网",
-	"icon": "ti-rocket",
+	"icon": "ti-world",
 	"sites": [{
 		"name": "Cloudflare",
 		"href": "https://www.cloudflare.com/",
@@ -131,7 +131,7 @@
 }, {
 	"_id": "AI",
 	"classify": "人工智能",
-	"icon": "ti-infinite",
+	"icon": "ti-window",
 	"sites": [{
 		"name": "OpenAI",
 		"href": "https://chat.openai.com/",
@@ -206,7 +206,7 @@
 }, {
 	"_id": "GitHub",
 	"classify": "GitHub",
-	"icon": "ti-download",
+	"icon": "ti-rocket",
 	"sites": [{
 		"name": "GitHub",
 		"href": "https://github.com/",
@@ -281,7 +281,7 @@
 }, {
 	"_id": "cliRe",
 	"classify": "注册临床",
-	"icon": "ti-download",
+	"icon": "ti-volume",
 	"sites": [{
 		"name": "NMPA",
 		"href": "https://www.nmpa.gov.cn/",
