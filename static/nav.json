@@ -166,37 +166,37 @@
 		"name": "DeepSeek",
 		"href": "https://chat.deepseek.com/",
 		"desc": "DeepSeek",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "static/icons/deepseek-chat.jpeg"
 	}, {
 		"name": "LMSYS Org",
 		"href": "https://lmsys.org/",
 		"desc": "LMSYS Org",
-		"logo": "static/icons/kanxue.com.ico"
+		"logo": "static/icons/lmsys-org.png"
 	}, {
 		"name": "Claude",
 		"href": "https://claude.ai/",
 		"desc": "Claude",
-		"logo": "static/icons/sspai.com.ico"
+		"logo": "static/icons/claude.png"
 	}, {
 		"name": "Cohere",
 		"href": "https://coral.cohere.com/",
 		"desc": "Cohere",
-		"logo": "static/icons/zdfans.com.ico"
+		"logo": "static/icons/cohere.png"
 	}, {
 		"name": "Groq",
 		"href": "https://groq.com/",
 		"desc": "Fastest AI Inference",
-		"logo": "static/icons/appinn.com.ico"
+		"logo": "static/icons/groq.jpg"
 	}, {
 		"name": "ChandlerAI",
 		"href": "https://mychandler.bet/chat",
 		"desc": "ChandlerAI",
-		"logo": "static/icons/ghpym.com.ico"
+		"logo": "static/icons/chandlerAI.png"
 	}, {
 		"name": "PerplexityAI",
 		"href": "https://www.perplexity.ai/",
 		"desc": "PerplexityAI",
-		"logo": "static/icons/iplaysoft.com.ico"
+		"logo": "static/icons/perplexity.png"
 	}, {
 		"name": "Coze-CN",
 		"href": "https://www.coze.cn/",
