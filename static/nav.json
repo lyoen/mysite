@@ -286,32 +286,32 @@
 		"name": "NMPA",
 		"href": "https://www.nmpa.gov.cn/",
 		"desc": "国家食品药品监督管理局",
-		"logo": "static/icons/baidu.png"
+		"logo": "static/icons/NMPA.jpg"
 	}, {
 		"name": "NMPA CDE",
 		"href": "https://www.cde.org.cn/",
 		"desc": "药审中心",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/NMPA-CDE.jpg"
 	}, {
 		"name": "FDA",
 		"href": "https://www.fda.gov/",
 		"desc": "US Food and Drug Administration",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/FDA.jpg"
 	}, {
 		"name": "FDA CDER",
 		"href": "https://www.fda.gov/about-fda/fda-organization/center-drug-evaluation-and-research-cder",
 		"desc": "FDA CDER",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/CDER.png"
 	}, {
 		"name": "Generic Drug Guidance",
 		"href": "https://www.fda.gov/drugs/guidances-drugs/product-specific-guidances-generic-drug-development",
 		"desc": "仿制药指导原则",
-		"logo": "static/icons/mpyit.com.ico"
+		"logo": "static/icons/guidances-drugs.png"
 	}, {
 		"name": "Orange Book",
 		"href": "https://www.accessdata.fda.gov/scripts/cder/ob/",
 		"desc": "Approved Drug Products with Therapeutic Equivalence Evaluations",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "static/icons/FDA-orange-book.png"
 	}, {
 		"name": "jp-orangebook",
 		"href": "http://www.jp-orangebook.gr.jp/english/",
@@ -321,92 +321,92 @@
 		"name": "WHO",
 		"href": "https://extranet.who.int/prequal/?search_api_views_fulltext=&op=search",
 		"desc": "WHO",
-		"logo": "static/icons/kanxue.com.ico"
+		"logo": "static/icons/who.jpg"
 	}, {
 		"name": "Drugs@FDA",
 		"href": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm",
 		"desc": "FDA-Approved Drugs",
-		"logo": "static/icons/sspai.com.ico"
+		"logo": "static/icons/drugs@fda.png"
 	}, {
 		"name": "EMA",
 		"href": "https://www.ema.europa.eu/en/homepage",
 		"desc": "EMA",
-		"logo": "static/icons/zdfans.com.ico"
+		"logo": "static/icons/ema.jpg"
 	}, {
 		"name": "ICH",
 		"href": "https://www.ich.org/",
 		"desc": "ICH",
-		"logo": "static/icons/appinn.com.ico"
+		"logo": "static/icons/ich.jpg"
 	}, {
 		"name": "Clinicaldata",
 		"href": "https://clinicaldata.ema.europa.eu/web/cdp",
 		"desc": "EMA审评材料",
-		"logo": "static/icons/ghpym.com.ico"
+		"logo": "static/icons/ema.jpg"
 	}, {
 		"name": "NIH Vedio",
 		"href": "https://videocast.nih.gov/",
 		"desc": "NIH Vedio",
-		"logo": "static/icons/iplaysoft.com.ico"
+		"logo": "static/icons/videocast.png"
 	}, {
 		"name": "DIA",
 		"href": "https://www.diaglobal.org/",
 		"desc": "Drug Information Association",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/diaglobal.jpg"	
 	}, {
 		"name": "AntibodySociety",
 		"href": "https://www.antibodysociety.org/",
 		"desc": "An international non-profit supporting antibody-related research and development",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/antibodysociety.jpg"	
 	}, {
 		"name": "ASH",
 		"href": "https://ashpublications.org/",
 		"desc": "American Society of Hematology",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/ashpublications.png"	
 	}, {
 		"name": "DDI Table",
 		"href": "https://drug-interactions.medicine.iu.edu/MainTable.aspx",
 		"desc": "CYP底物、抑制剂、诱导剂",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/cyp ddi table.png"	
 	}, {
 		"name": "Chinadrugtrials",
 		"href": "http://www.chinadrugtrials.org.cn/index.html",
 		"desc": "中国临床试验登记与信息公示平台",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/NMPA.jpg"	
 	}, {
 		"name": "WHOdrugtrials",
 		"href": "https://trialsearch.who.int/",
 		"desc": "International Clinical Trials Registry Platform",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/ictrp.jpg"	
 	}, {
 		"name": "Clinicaltrials",
 		"href": "https://www.clinicaltrials.gov/",
 		"desc": "NIH Clinical Trials",
-		"logo": "static/icons/photopea.com.png"	
+		"logo": "static/icons/clinicaltrials.png"	
 	}, {
 		"name": "Clinicaltrials-Classic",
 		"href": "https://classic.clinicaltrials.gov/",
 		"desc": "Classic Clinical Trials",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "static/icons/clinicaltrials.jpg"
 	}, {
 		"name": "EU Clinicaltrials",
 		"href": "https://www.clinicaltrialsregister.eu/ctr-search/search",
 		"desc": "EU Clinical Trials",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "static/icons/EU Clinical Trials Register.jpg"
 	}, {
 		"name": "Clinical Trial Competency",
 		"href": "https://mrctcenter.org/clinical-trial-competency/",
 		"desc": "Joint Task Force For Clinical Trial Competency",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "static/icons/inical-trial-competency.png"
 	}, {
 		"name": "Anzctr",
 		"href": "https://anzctr.org.au/Default.aspx",
 		"desc": "Australia New Zealand clinical trials registry",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "static/icons/anzctr.png"
 	}, {
 		"name": "synapse",
 		"href": "https://synapse.patsnap.com/",
 		"desc": "Global Drug Intelligence",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "static/icons/synapse patsnap.jpg"
 	}]
 }, {
 	"_id": "Literature",
